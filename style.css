@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    font-family: Helvetica;
+}
+
+article {
+    width: 15vw;
+    height: 5vh;
+    padding: 10px;
+    margin: 10px;
+}
+
+h1, p {
+    color: white;
+}
+
+#bloco-1 {
+    background-color: #cf810c;
+    border: 5px solid #eca409;
+}
+
+#bloco-2 {
+    background-color: #208019;
+    border: 5px solid #1caa13;
+}
+
+#bloco-3 {
+    background-color: #11440d;
+    border: 5px dashed #209917;
+}
+
+#bloco-4 {
+    background-color: #c53030;
+    border: 5px dashed #e94444;
+}
+
